@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NikoNotes</string>
+    <string name="action_add">Add</string>
+    <string name="label_enter_title">Enter Title</string>
+    <string name="label_enter_message">Enter Message</string>
+    <string name="label_add_notes">Add Notes</string>
+    <string name="label_loading">Loading...</string>
+</resources>
